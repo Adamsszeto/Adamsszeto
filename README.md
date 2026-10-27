@@ -1,3 +1,7 @@
+![](https://komarev.com/ghpvc/?username=Adamsszeto&color=0e75b6&style=flat)
+![](https://img.shields.io/github/followers/Adamsszeto?label=Followers&style=social)
+
+
 ### Hi, I'm Adams Szeto 👋 Zero-Code Builder | Logistics → AIGC / AI ERP / AI IP
 
 15 years Logistics Management (Hong Kong's 4 Pillars). Pivoted to AI full-time in 2025.
