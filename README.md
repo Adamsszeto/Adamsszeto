@@ -30,3 +30,11 @@ I'm the guy who speaks human. My partners speak code.
 
 Threads @hk.learn.ai → Documenting from 1 follower how I help people use their face to get brand deals.
 Location: Hong Kong 🇭🇰 | Company: yourmagicip.com
+
+**Tech Stack:** `Storyboard Agent` | `MCP 21 Tools` | `HashVM` | `HWT Settlement` | `AIDIPA / JUA`
+
+**2026 Roadmap:**
+- [x] Launch AlgoHash.ai Storyboard Agent (IG/YT Link → 12 scenes)
+- [x] Launch YourMagICip.com MVP (200+ followers → brand deals)
+- [ ] Close Bute Tutorial 13-17y/o Workshop (40 ppl x HKD150)
+- [ ] Get AIDIPA HK Node + JUA Japan Approval
