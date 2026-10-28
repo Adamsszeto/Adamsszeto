@@ -38,3 +38,15 @@ Location: Hong Kong 🇭🇰 | Company: yourmagicip.com
 - [x] Launch YourMagICip.com MVP (200+ followers → brand deals)
 - [ ] Close Bute Tutorial 13-17y/o Workshop (40 ppl x HKD150)
 - [ ] Get AIDIPA HK Node + JUA Japan Approval
+
+
+### 🚀 全港首個 IP 租賃平台 - 200粉就可以
+
+![200粉招募](https://raw.githubusercontent.com/Adamsszeto/Adamsszeto/main/banner.png)
+
+**台灣 🇹🇼 | 香港 🇭🇰 | 大馬 🇲🇾 | 東南亞都接受**
+
+> 把你的樣子做成作品集去接案子
+> 你的樣子，是你的作品，不是平台的
+
+📩 留言 IP 我 DM 你 | www.yourmagicip.com
